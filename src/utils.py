@@ -1,0 +1,1 @@
+# This scruipt conitains any helper functions
